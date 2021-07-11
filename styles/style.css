@@ -1,5 +1,5 @@
-.main{
 
+.main{
     top: 0px;
     left: 0;
     font-family: "Lexend Deca",sans-serif;
@@ -21,6 +21,7 @@ p{
     line-height: 1.6em;
 }
 .div{
+
     position: relative;
     box-sizing: border-box;
     height: 100%;
@@ -29,9 +30,11 @@ p{
     padding-top: 50px;
 }
 .article{
+    
     width: 350px;
     height: 600px;
     display: inline-block;
+    position: relative;
 }
 .article-1{
     margin-left: 10px;
